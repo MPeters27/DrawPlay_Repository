@@ -8,7 +8,7 @@ public class Alien {
 	
 	private static final int EYE_Y = HEAD_DIMENSION/4;
 	private static final int EYE_X = HEAD_DIMENSION/4;
-	private static final int EYE_SEPARATION = HEAD_DIMENSION/2 + 12;
+	private static final int EYE_SEPARATION = HEAD_DIMENSION/2 + 15;
 	
 	private static final int EYE_HEIGHT = 20;
 	private static final int EYE_WIDTH = 30;
